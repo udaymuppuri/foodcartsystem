@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: foodcart
-        image: udaymuppuri/foodcart:latest
+        image: udaymuppuri/foodcart:14
         ports:
         - containerPort: 5173
         - containerPort: 5000
